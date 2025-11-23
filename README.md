@@ -1,4 +1,4 @@
-# Python-Basic-Projects
+
 # Python Mini Projects
 
 This repository contains beginner-level and beginner-to-intermediate Python projects.
